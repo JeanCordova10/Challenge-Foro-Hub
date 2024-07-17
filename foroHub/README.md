@@ -40,16 +40,6 @@ Dependencias:
 * Spring Doc
 * Auth0 (Java jwt)
 
-
-### Ejemplos
-Endpoints
-![image](https://github.com/user-attachments/assets/92063ab6-868c-44aa-86e0-cc0c46045063)
-![image](https://github.com/user-attachments/assets/e8bfcca0-6761-4172-8dcb-b30fb3b5209f)
-![image](https://github.com/user-attachments/assets/77d1bf84-0971-4bd0-a5d6-6bfa6d7f09a5)
-
-![image](https://github.com/user-attachments/assets/a5928b51-b63e-4a46-90b6-ffa242f8e9e1)
-
-
 ### Documentacion
 
 Toda la documentación del proyecto fue hecha con la libreria SpringDoc, para acceder a ella (en una interfaz amigable) solo es necesario poner en tu navegador: {ruta_de_la_API}/swagger-ui/index.html#/
@@ -57,7 +47,3 @@ Toda la documentación del proyecto fue hecha con la libreria SpringDoc, para ac
 ### Base de datos
 
 ![forohub_api](https://github.com/user-attachments/assets/ba0733ea-4791-4c9c-b7c6-826cfc0d7c3c)
-
-
-
-Made with <3 By a Duck who codes ;).
